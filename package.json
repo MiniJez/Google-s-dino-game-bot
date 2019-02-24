@@ -1,0 +1,20 @@
+{
+  "name": "google-dino-bot",
+  "version": "1.0.0",
+  "description": "A simple bot for google dino game",
+  "main": "src/dinoBot.js",
+  "scripts": {
+    "start": "node src/dinoBot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edouard CLISSON",
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.5.1",
+    "sleep": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "standard": "^12.0.1"
+  }
+}
